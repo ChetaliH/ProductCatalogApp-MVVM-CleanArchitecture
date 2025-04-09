@@ -45,14 +45,15 @@ Example of graceful error handling:
 
 <img width="185" alt="z1" src="https://github.com/user-attachments/assets/ae85116a-2744-4b8d-8c77-3130a4a9803d" />
 
+Tech-Stack=>
 
-Tech Stack
-Layer	Libraries/Tools Used
-UI	- Jetpack Compose, Material 3
-DI	- Hilt
-Networking	- Retrofit, Gson
-Language	- Kotlin (JVM Target 17)
-Architecture	- MVVM + Clean Architecture
+| Layer        | Libraries/Tools Used                       |
+|-------------|---------------------------------------------|
+| UI          | Jetpack Compose, Material 3                 |
+| DI          | Hilt                                        |
+| Networking  | Retrofit, Gson                              |
+| Language    | Kotlin (JVM Target 17)                      |
+| Architecture| MVVM + Clean Architecture                   |
 
 Run on an emulator or physical device with SDK 24+.
 
