@@ -54,15 +54,6 @@ Networking	- Retrofit, Gson
 Language	- Kotlin (JVM Target 17)
 Architecture	- MVVM + Clean Architecture
 
-Getting Started
-Clone the repo:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/product-catalog-app.git
-cd product-catalog-app
-Open in Android Studio and sync Gradle.
-
 Run on an emulator or physical device with SDK 24+.
 
  .gitignore Highlights
