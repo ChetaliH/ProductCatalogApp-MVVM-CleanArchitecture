@@ -6,6 +6,7 @@ This project adheres to industry-level coding principles and best practices, inc
 
 Clean Architecture (3-Layered)
 The project follows a well-structured MVVM + Clean Architecture pattern, separating concerns between:
+
 <img width="309" alt="z2-MVVM-LayeredArchitecture" src="https://github.com/user-attachments/assets/8ac134ce-f39e-42a8-a968-a925bfa19b5d" />
 
 Presentation Layer
